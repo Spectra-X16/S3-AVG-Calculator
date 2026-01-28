@@ -59,6 +59,7 @@ if st.button("Calculate My Average", type="primary"):
 st.divider()
 st.markdown("""
     <h1 style='text-align: center; font-size: 40px; color: #00008B;'>
-        Created by  𝑆𝑝𝑒𝑒𝑒𝑒𝑐𝑡𝑟𝑎 X
+        Developed by  𝑆𝑝𝑒𝑒𝑒𝑒𝑐𝑡𝑟𝑎 X
     </h1>
+
     """, unsafe_allow_html=True)
