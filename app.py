@@ -5,7 +5,7 @@ st.set_page_config(page_title="S3 Average Calculator", page_icon="🎓")
 st.title("🎓 Third Semester Average Calculator For Section G")
 
 # 1. Get the User's Name
-name = st.text_input("Please Write Your Name:", placeholder="e.g.Mohammed")
+name = st.text_input("Please Write Your Name:", placeholder="e.g. Mohammed")
 
 st.divider()
 
